@@ -20,24 +20,26 @@ Alter your function to only use a single traversal (one loop) of the phrase usin
 
 var panama = process.argv.slice(2);
 var string = panama[0];
+//var string = "humberto";
 
 
 function isPalindrome(a){
+    var result;
 
-	for(var i = 0; i < a.length; i++){
-
-	console.log(a[i]);
-		//a[a.length-1] return the string value no the index value
-		if(a[i] === a[a.length - i]){
-			console.log(a[a.length-1-i]);
-			console.log(a[i]);
-			a = true;
-		}
-	else
-	{
-		a = false;
-	}
-	return a;
+    for(var i = 0; i < a.length; i++){
+        
+        //a[a.length-1] return the string value no the index value
+        if(a[i] === a[a.length - 1 - i]){
+    
+            console.log(a[i]);
+            result = true;
+        }
+    else
+    {
+        result = false;
+    }
 }
+    // make sure to leave the return outside the loop or it //will stop it 
+    return result;
 }
 console.log(isPalindrome(string));

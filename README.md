@@ -50,8 +50,12 @@
     <td>DOM Context & Event Binding (Nathan / Ilias)</td>
 =======
     <td><a href="week-01/day-4-DOM/dusk-dom-events">DOM Context & Event Binding</a> (Nathan / Ilias)</td>
+<<<<<<< HEAD
 >>>>>>> b54eb5decdeaa44b8e8dbd3412e34aacf90080de
     <td>Racing Game (Team)</td>
+=======
+    <td><a href="week-01/day-5/weekend_project_spec.md">Racing Game</a> (Team)</td>
+>>>>>>> 14f88a6893794feb4a1ca53ae490f41810c513d5
   </tr>
   <tr>
     <td>HW</td>
