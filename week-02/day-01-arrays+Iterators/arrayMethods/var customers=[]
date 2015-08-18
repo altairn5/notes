@@ -1,0 +1,26 @@
+var customers={ "Justin": "2 minutes",
+   "Ilias": "4 var customers={ "Justin": "2 minutes",
+   "Ilias": "4 minutes",
+   "Nathan": "6 minutes",
+   "Camilo": "8 minutes",
+   "Vikash": "10 minutes","Cameron": "22 minutes"};
+customers.forEach(function(element,index, waiting){
+    console.log(index + "Customer" + element+ "/n Waiting Time: " + waiting)});
+    
+
+/* 
+   ...
+   
+*/
+minutes",
+   "Nathan": "6 minutes",
+   "Camilo": "8 minutes",
+   "Vikash": "10 minutes","Cameron": "22 minutes"};
+customers.forEach(function(element,index, waiting){
+    console.log(index + "Customer" + element+ "/n Waiting Time: " + waiting)});
+    
+
+/* 
+   ...
+   
+*/

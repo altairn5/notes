@@ -33,7 +33,11 @@
   </tr>
   <tr>
     <td>Module1</td>
+<<<<<<< HEAD
     <td>Array Methods (Justin)</td>
+=======
+    <td><a href="https://github.com/sf-wdi-21/notes/tree/master/week-02/day-01-arrays%2BIterators/dawn-arrayMethods">Array Methods</a> (Justin)</td>
+>>>>>>> 3497af44ef26256dc2c4b51f34999e48807cb16e
     <td>Forms & JSON (Nathan)</td>
     <td>HTML Templating (Ilias)</td>
     <td>Objects (Justin)</td>
@@ -41,7 +45,11 @@
   </tr>
   <tr>
     <td>Module2</td>
+<<<<<<< HEAD
     <td>Implementing Iterators (Ilias)</td>
+=======
+    <td><a href="https://github.com/sf-wdi-21/notes/tree/master/week-02/day-01-arrays%2BIterators/dusk-iteratorsLab">Implementing Iterators</a> (Ilias)</td>
+>>>>>>> 3497af44ef26256dc2c4b51f34999e48807cb16e
     <td>Intro AJAX (Nathan)</td>
     <td>AJAX & Google Maps (Nathan)</td>
     <td>OOP Drills (Justin)</td>
@@ -49,7 +57,11 @@
   </tr>
   <tr>
     <td>HW</td>
+<<<<<<< HEAD
     <td>HTML Forms</td>
+=======
+    <td><a href="https://github.com/sf-wdi-21/notes/blob/master/week-02/day-02-forms%2BAJAX/dawn-forms/html5-forms.md">HTML Forms</a></td>
+>>>>>>> 3497af44ef26256dc2c4b51f34999e48807cb16e
     <td>How the Internet Works</td>
     <td>OOP Reading</td>
     <td>JS Style Guide</td>
@@ -103,7 +115,7 @@
   </tr>
   <tr>
     <td>HW</td>
-    <td><a href="week-01/day-1-intro/reading/1_javascript_primitives.md">JS Primitives</a> & <a href="/week-01/day-2-control-flow/dawn-control-flow/readme.md">Control Flow</a></td>
+    <td><a href="week-01/day-1-intro/reading/1_javascript_primitives.md">JS Primitives</a> & <a href="https://github.com/sf-wdi-21/notes/blob/master/week-01/day-2-control-flow/dawn-control-flow/README.md">Control Flow</a></td>
     <td><a href="week-01/day-3-functions%2BCSS/dawn-functions/reading.md">Functions</a> & <a href="week-01/day-3-functions%2BCSS/dusk-modular-css/readme.md">CSS</a></td>
     <td><a href="week-01/day-4-DOM/dawn-intro-dom-jquery/README.md">jQuery & DOM</a></td>
 <<<<<<< HEAD
