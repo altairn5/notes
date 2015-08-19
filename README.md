@@ -25,20 +25,25 @@
   </tr>
   <tr>
     <td>Drills</td>
-    <td><a href="week-02/drills.md">Extend Kyrel</a></td>
-    <td><a href="week-02/drills.md">HTML Strings</a></td>
-    <td><a href="week-02/drills.md">Frequency Counter</a></td>
-    <td><a href="week-02/drills.md">Merge</a></td>
+    <td><a href="week-02/drills.md">Extend Kyrel</a> (Nathan)</td>
+    <td><a href="week-02/drills.md">HTML Strings</a> (Ilias)</td>
+    <td><a href="week-02/drills.md">Frequency Counter</a> (Ilias)</td>
+    <td><a href="week-02/drills.md">Merge</a> (Ilias)</td>
     <td>Assessment (Team)</td>
   </tr>
   <tr>
     <td>Module1</td>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <td>Array Methods (Justin)</td>
 =======
     <td><a href="https://github.com/sf-wdi-21/notes/tree/master/week-02/day-01-arrays%2BIterators/dawn-arrayMethods">Array Methods</a> (Justin)</td>
 >>>>>>> 3497af44ef26256dc2c4b51f34999e48807cb16e
     <td>Forms & JSON (Nathan)</td>
+=======
+    <td><a href="week-02/day-01-arrays%2BIterators/dawn-arrayMethods">Array Methods</a> (Justin)</td>
+    <td><a href="week-02/day-02-forms+AJAX/dawn-forms">Forms & JSON</a> (Nathan)</td>
+>>>>>>> 5151e318d21a50d2e4d2d5cf9d941a442ec12a6c
     <td>HTML Templating (Ilias)</td>
     <td>Objects (Justin)</td>
     <td>Review (Team)</td>
@@ -46,17 +51,23 @@
   <tr>
     <td>Module2</td>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <td>Implementing Iterators (Ilias)</td>
 =======
     <td><a href="https://github.com/sf-wdi-21/notes/tree/master/week-02/day-01-arrays%2BIterators/dusk-iteratorsLab">Implementing Iterators</a> (Ilias)</td>
 >>>>>>> 3497af44ef26256dc2c4b51f34999e48807cb16e
     <td>Intro AJAX (Nathan)</td>
+=======
+    <td><a href="week-02/day-01-arrays%2BIterators/dusk-iteratorsLab">Implementing Iterators</a> (Ilias)</td>
+    <td><a href="week-02/day-02-forms+AJAX/dusk-ajax">Intro AJAX</a> (Nathan)</td>
+>>>>>>> 5151e318d21a50d2e4d2d5cf9d941a442ec12a6c
     <td>AJAX & Google Maps (Nathan)</td>
     <td>OOP Drills (Justin)</td>
     <td>OOP Refactor (Nathan)</td>
   </tr>
   <tr>
     <td>HW</td>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <td>HTML Forms</td>
 =======
@@ -65,6 +76,12 @@
     <td>How the Internet Works</td>
     <td>OOP Reading</td>
     <td>JS Style Guide</td>
+=======
+    <td><a href="https://github.com/sf-wdi-21/notes/blob/master/week-02/day-02-forms%2BAJAX/dawn-forms/readme.md">HTML Forms</a> (Ilias)</td>
+    <td><a href="https://github.com/sf-wdi-21/notes/blob/master/week-02/day-03-jquery-templating/howTheInternetWorks.md">How the Internet Works</a> (Ilias)</td>
+    <td>OOP Reading (Justin)</td>
+    <td>JS Style Guide (Nathan)</td>
+>>>>>>> 5151e318d21a50d2e4d2d5cf9d941a442ec12a6c
     <td><!-- LEAVE BLANK --></td>
 
   </tr>
