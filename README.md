@@ -26,9 +26,9 @@
   <tr>
     <td>Drills</td>
     <td><a href="week-02/drills.md">Extend Kyrel</a> (Nathan)</td>
-    <td><a href="week-02/drills.md">HTML Strings</a> (Ilias)</td>
+    <td><a href="week-02/drills.md">HTML Strings</a> (Justin)</td>
+    <td><a href="week-02/drills.md">HTML Strings</a> (Justin)</td>
     <td><a href="week-02/drills.md">Frequency Counter</a> (Ilias)</td>
-    <td><a href="week-02/drills.md">Merge</a> (Ilias)</td>
     <td>Assessment (Team)</td>
   </tr>
   <tr>
@@ -43,8 +43,12 @@
 =======
     <td><a href="week-02/day-01-arrays%2BIterators/dawn-arrayMethods">Array Methods</a> (Justin)</td>
     <td><a href="week-02/day-02-forms+AJAX/dawn-forms">Forms & JSON</a> (Nathan)</td>
+<<<<<<< HEAD
 >>>>>>> 5151e318d21a50d2e4d2d5cf9d941a442ec12a6c
     <td>HTML Templating (Ilias)</td>
+=======
+    <td><a href="https://github.com/sf-wdi-21/notes/blob/master/week-02/day-03-jquery-templating/html-templating/readme.md">HTML Templating</a> (Ilias)</td>
+>>>>>>> 1fdbd751b8444e493468910c25c4e8da8bc532f6
     <td>Objects (Justin)</td>
     <td>Review (Team)</td>
   </tr>
@@ -60,8 +64,12 @@
 =======
     <td><a href="week-02/day-01-arrays%2BIterators/dusk-iteratorsLab">Implementing Iterators</a> (Ilias)</td>
     <td><a href="week-02/day-02-forms+AJAX/dusk-ajax">Intro AJAX</a> (Nathan)</td>
+<<<<<<< HEAD
 >>>>>>> 5151e318d21a50d2e4d2d5cf9d941a442ec12a6c
     <td>AJAX & Google Maps (Nathan)</td>
+=======
+    <td><a href="week-02/day-03-jquery-templating/dusk-ajax-google-maps">AJAX & Google Maps</a> (Nathan)</td>
+>>>>>>> 1fdbd751b8444e493468910c25c4e8da8bc532f6
     <td>OOP Drills (Justin)</td>
     <td>OOP Refactor (Nathan)</td>
   </tr>
