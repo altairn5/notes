@@ -10,13 +10,7 @@ var o_o = {
     //code here...
   },
   filter: function(list, callback) {
-    var output = [];
-      for (var i = 0; i < list.length; i++) {
-        if (callback(list[i])) {
-          output.push(list[i]);
-        }
-      }
-      return output;
+    //code here...
   }
 };
 
