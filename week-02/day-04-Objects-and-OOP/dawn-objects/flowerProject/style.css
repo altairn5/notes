@@ -1,0 +1,9 @@
+
+body{
+	background: solid blue;
+}
+hr{
+	size:4px;
+	/*length:300px;*/
+	margin-top:400px;
+}
