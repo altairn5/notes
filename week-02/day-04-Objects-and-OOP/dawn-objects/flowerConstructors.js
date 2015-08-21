@@ -1,3 +1,8 @@
+var carnation;
+
+// $(document).ready(function(){
+
+
 function Flower(color, petals, smellsPretty, origin){
    /* Properties */
    // Passed-in values
@@ -9,14 +14,14 @@ function Flower(color, petals, smellsPretty, origin){
    // Default values
    this.isEdible = false;
     this.wiltFactor = 100; //0 is dead, 100 is fresh
-   
+   this.leafCount = 10;
 
     /* Methods */
    this.sniff = function(){
        console.log("Sniff Sniff Sniff!");
    };
    // Demonstrates use of arguments with methods
-   this.smellsGood = function(answer) {
+   this.hasGoodSmell = function(answer) {
        if (answer) {
            return 'This flower smells amazing!';
        } else {
@@ -42,3 +47,30 @@ function Flower(color, petals, smellsPretty, origin){
        console.log("Here's a flower")
     };
 }
+
+function Bee(flower1, flower2){
+   this.flower1 = flower1;
+   this.flower2 = flower2;
+
+   this.crossPollinate = function() {
+       var colorBlend = flower1.color + "-" + flower2.color;
+       var petalAvg = Math.round((flower1.petals + flower2.petals) / 2);
+       var leafAvg = Math.round((flower1.leafCount + flower2.leafCount) / 2);
+       var smellTrait = flower1.smellsPretty && flower2.smellsPretty;
+       var flower3 = new Flower(colorBlend, petalAvg, smellTrait, "Class Room 6");
+       flower3.leafCount = leafAvg;
+
+       return flower3;
+   }
+
+}
+
+var flower1 = new Flower("blue", 3, true, "Tenderloin");
+var flower2 = new Flower("green", 10, true, "Bush & Sutter");
+
+var bee = new Bee(flower1, flower2);
+
+var flower3 = bee.crossPollinate();
+
+// });
+
