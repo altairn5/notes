@@ -14,21 +14,27 @@
 </head>
 <body>
 
-  <h1>Carnation</h1>
-  <hr></hr>
-
-  <!-- octocat template placeholder -->
-  <div id="flower"></div>
-  <hr></hr>
-  <!-- octocat template -->
-    <div class="octocat">
-      <p>
-      <a img="http://i.imgur.com/82xvs1X.jpg"></a>
-     
-      </p>
-    </div>
-    <hr></hr>
-  </script>
+  <h1>San Francisco Flowers</h1>
+  <p>SF WDI 21</p> 
+  <hr>
+  <!-- flower template placeholder -->
+  <div id="target"></div>
+  <hr>
   
 </body>
+
+  <script type="text/template" id="passedIn">
+    <img id="<%= flower.name%>" src="<%=flower.image%>"> 
+    <ul>
+      <li>Flower Name:<%=this.name%></li>
+      <li>Flower Color:<%=this.color%></li>
+      <li>Petals Count:<%=this.petals%></li>
+      <li>Smell:<%=this.smellsPretty%></li>
+      <li>Origin:<%=this.origin%></li>
+      <li>Is It Edible:<%=this.isEdible%></li>
+      <li>Leaf Count:<%=this.leafCount%></li>
+    </ul>
+  </script>
+
+
 </html>
