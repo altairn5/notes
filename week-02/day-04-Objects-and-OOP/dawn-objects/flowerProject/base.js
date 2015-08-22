@@ -1,5 +1,7 @@
-var carnation;
+
 var flowerPic = "http://i.imgur.com/82xvs1X.jpg";
+
+
 
 
 $(document).ready(function(){
@@ -10,7 +12,7 @@ function Flower(image, name, color, petals, smellsPretty, origin)
 {
    /* Properties */
    // Passed-in values
-   this.image=image;
+   this.image= image;
    this.name= name;
    this.color = color;
    this.petals = petals;
@@ -22,18 +24,31 @@ function Flower(image, name, color, petals, smellsPretty, origin)
    this.wiltFactor = 100; //0 is dead, 100 is fresh
    this.leafCount = 10;
 
-   this.render = function()
+   this.pizza = function()
    {
-      var template= _.template("#passedIn");
-      $("#target").html(template({flower:this}));
+      var passedInHtml = $("#passedIn").html();//html
+      console.log(passedInHtml);
+      var formatFunction=_.template(passedInHtml); // format is a function
+      //_.template compiles HTMl (stored in var passedInHTML) and the stores it into function "format"
+      console.log(formatFunction);
+      $("#target").append(formatFunction(this)); //format function is returning html 
+
+
+      // var template= _.template("#passedIn");
+      //$("#target").html(template({flower:this}));
+
+
+      // format(this);or assign it to a variable
+
+      
 
    }
 
 }
 
-carnation = new Flower(flowerPic,"Carnation","Purple","30","Good Smell", "Bogota");
+var carnation = new Flower(flowerPic,"Carnation","Purple","30","Good Smell", "Bogota");
 
-carnation.render();
+carnation.pizza();
 
 
 });

@@ -3,7 +3,7 @@
 <head>
   <title>Flowers</title>
  
-  <link rel="stylesheet" src="styles.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   <!-- jQuery -->
   <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <!-- Underscore -->
@@ -16,24 +16,29 @@
 
   <h1>San Francisco Flowers</h1>
   <p>SF WDI 21</p> 
-  <hr>
+
   <!-- flower template placeholder -->
-  <div id="target"></div>
-  <hr>
   
+  <div id="target"></div>
+  </div>
+
 </body>
 
   <script type="text/template" id="passedIn">
-    <img id="<%= flower.name%>" src="<%=flower.image%>"> 
+  <div id="wraper">
+  <hr>
+    <img id="<%= name%>" src="<%=image%>"> 
     <ul>
-      <li>Flower Name:<%=this.name%></li>
-      <li>Flower Color:<%=this.color%></li>
-      <li>Petals Count:<%=this.petals%></li>
-      <li>Smell:<%=this.smellsPretty%></li>
-      <li>Origin:<%=this.origin%></li>
-      <li>Is It Edible:<%=this.isEdible%></li>
-      <li>Leaf Count:<%=this.leafCount%></li>
+      <li>Flower Name :<%=name%></li>
+      <li>Flower Color :<%=color%></li>
+      <li>Petals Count :<%=petals%></li>
+      <li>Smell :<%=smellsPretty%></li>
+      <li>Origin :<%=origin%></li>
+      <li>Is It Edible? : <%=isEdible%></li>
+      <li>Leaf Count :<%=leafCount%></li>
     </ul>
+    <hr>
+  </div>
   </script>
 
 
