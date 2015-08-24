@@ -11,7 +11,11 @@ Objectives|
 Object Relational Mapping is the practice of storing objects from an Object Oriented Language
 into a database as objects, not SQL.  SQL (Structured Query Language) is a special-purpose
  programming language designed for managing data held in a 
+<<<<<<< HEAD
  relational database management system (RDBMS.) Access this data can take a large amount of
+=======
+ relational database management system (RDBMS.) Accessing this data can take a large amount of
+>>>>>>> 56fb494f14a556d66be8fec7192afb361bf86ead
  code and can often be cumbersome to generate.
 
 Here is an example of code accessing a SQL database directly.
@@ -34,6 +38,7 @@ var name = p.getFirstName();
 
 ```javascript
 {
+<<<<<<< HEAD
 	{
 		emp_no: 1,
 		name: "Alex S",
@@ -62,11 +67,47 @@ var name = p.getFirstName();
 		department: "Security"
 		salary: 5100		
 	},	
+=======
+	[
+		{
+			emp_no: 1,
+			name: "Alex S",
+			age: 26,
+			department: "Store"
+			salary: 5000
+		},
+		{
+			emp_no: 2,
+			name: "Golith K",
+			age: 32,
+			department: "Marketing"
+			salary: 5600
+		},
+		{
+			emp_no: 3,
+			name: "Rabin R",
+			age: 31,
+			department: "Marketing"
+			salary: 5600		
+		},
+		{
+			emp_no: 4,
+			name: "Jons",
+			age: 26,
+			department: "Security"
+			salary: 5100		
+		},
+	]
+>>>>>>> 56fb494f14a556d66be8fec7192afb361bf86ead
 }
 ```
 ORMS store data as objects, rather than tables with rows of data.  You know and understand
 Javascript and Object Oriented Programming.  We can use OOP to store and access complex
+<<<<<<< HEAD
 groupings of data and objects.  Access that data should be just as easy as accessing
+=======
+groupings of data and objects.  Accessing that data should be just as easy as accessing
+>>>>>>> 56fb494f14a556d66be8fec7192afb361bf86ead
 objects in Javascript; we can use built-in methods that make sense in our language!
 
 <h2>Lets build an ORM! </h2>

@@ -32,7 +32,11 @@
   </tr>
   <tr>
     <td>Module1</td>
+<<<<<<< HEAD
     <td>Bootstrap, Bower (Nathan)</td>
+=======
+    <td><a href='week-03/day-01-bootstrap-orm/dawn-bootstrap/readme.md'>Bootstrap, Bower</a> (Nathan)</td>
+>>>>>>> 56fb494f14a556d66be8fec7192afb361bf86ead
     <td>Intro Express: Serving Data (Nathan)</td>
     <td>Todo Lab: CR (Ilias)</td>
     <td>Cookies & local storage (Nathan)</td>
@@ -40,7 +44,11 @@
   </tr>
   <tr>
     <td>Module2</td>
+<<<<<<< HEAD
     <td>ORM Lab (Justin)</td>
+=======
+    <td><a href='week-03/day-01-bootstrap-orm/dusk-orm-lab/readme.md'>ORM Lab</a> (Justin)</td>
+>>>>>>> 56fb494f14a556d66be8fec7192afb361bf86ead
     <td>Intro Express: Routes & Params (Nathan)</td>
     <td>Todo Lab: UD (Ilias)</td>
     <td>Mongo CRUD (Justin)</td>
