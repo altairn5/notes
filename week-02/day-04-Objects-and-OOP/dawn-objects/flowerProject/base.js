@@ -33,8 +33,8 @@ function Flower(image, name, color, petals, smellsPretty, origin)
       console.log(formatFunction);
       $("#target").append(formatFunction(this)); //format function is returning html 
 
-
-      // var template= _.template("#passedIn");
+        //another way to 
+      // var template= _.template($("#passedIn").html());
       //$("#target").html(template({flower:this}));
 
 
