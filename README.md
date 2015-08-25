@@ -25,9 +25,9 @@
   <tr>
     <td>Drills</td>
     <td>Game Show (Team)</td>
-    <td>Linked Lists (Justin)</td>
-    <td>Linked Lists (Justin)</td>
-    <td>Linked Lists (Justin)</td>
+    <td><a href='https://github.com/sf-wdi-21/linked-list'>Linked Lists</a> (Justin)</td>
+    <td><a href='https://github.com/sf-wdi-21/linked-list'>Linked Lists</a>(Justin)</td>
+    <td><a href='https://github.com/sf-wdi-21/linked-list'>Linked Lists</a>(Justin)</td>
     <td>Assessment (Team)</td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>HW</td>
-    <td>Express Hello World (Nathan)</td>
+    <td><a href="week-03/day-02-intro-express/dawn-routing/README.md">Express Hello World</a> (Nathan)</td>
     <td>RESTful convention (Ilias)</td>
     <td>Mongo CRUD (Justin)</td>
     <td>TBD (Ilias)</td>
