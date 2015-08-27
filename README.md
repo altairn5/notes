@@ -43,7 +43,7 @@
     <td>Intro Express: <a href="week-03/day-02-intro-express/dawn-routing">Routing</a> (Nathan)</td>
 >>>>>>> 947793b90cfd5fadb0146a96d9df3d0a9206804b
     <td>Todo Lab: CR (Ilias)</td>
-    <td>Cookies & local storage (Nathan)</td>
+    <td><a href='week-03/day-04-mongo-crud/dawn-mongo/readme.md'>Mongo CRUD</a> (Justin)</td>
     <td>Review (Team)</td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@
     <td>HW</td>
     <td><a href="week-03/day-02-intro-express/dawn-routing/README.md">Express Hello World</a> (Nathan)</td>
     <td><a href="https://github.com/sf-wdi-21/notes/blob/master/week-03/day-03-crud-express/rest.md">RESTful convention</a> (Ilias)</td>
-    <td>Mongo CRUD (Justin)</td>
+    <td><a href="week-03/day-04-mongo-crud/dawn-mongo/readme.md">Mongo CRUD</a>(Justin)</td>
     <td>TBD (Ilias)</td>
     <td><!-- LEAVE BLANK --></td>
   </tr>
