@@ -33,7 +33,7 @@
   <tr>
     <td>Module1</td>
     <td><a href="https://github.com/sf-wdi-21/mongo-rel-book-app">Mongo Relationships (Justin)</a></td>
-    <td>Cookies (Nathan)</td>
+    <td><a href="week-04/day-2-cookies-sessions">Cookies</a> (Nathan)</td>
     <td>Authorization: Express Bcrypt (Ilias)</td>
     <td>Lab (Nathan)</td>
     <td>Review (Team)</td>
@@ -41,17 +41,17 @@
   <tr>
     <td>Module2</td>
     <td>Mongo Relationships (Justin)</td>
-    <td>Sessions (Nathan)</td>
+    <td><a href="https://github.com/sf-wdi-21/express_form_login_cookies_lab">Form Login Lab</a> (Nathan)</td>
     <td>Authorization: Express Bcrypt (Ilias)</td>
     <td>Project One: Intro (Team)</td>
     <td>Project One</td>
   </tr>
   <tr>
     <td>HW</td>
-    <td>Reading</td>
-    <td>Reading</td>
-    <td>Review</td>
-    <td>Project</td>
+    <td><a href="week-04/day-2-cookies-sessions/README.md">Cookies</a> (Nathan)</td>
+    <td>Auth (Ilias) </td>
+    <td>TBD (Team)</td>
+    <td>Project One</td>
     <td><!-- LEAVE BLANK --></td>
   </tr>
 </table>
